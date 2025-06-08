@@ -144,6 +144,8 @@ Feel free to use, modify, and share ⭐
 This project was built for **educational purposes**, demonstrating how to build an SVM classifier from scratch on a large dataset.
 Inspired by classic ML courses and hands-on experience.
 
+* Student: **Sayyed Hossein Hosseini DolatAbadi**
+
 ---
 
 **If you like this project, please ⭐️ the repo and share it!**
