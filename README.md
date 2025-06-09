@@ -1,4 +1,4 @@
-# 🖋️ SVM-MNIST-Classifier 🚀
+# 🖋️ SVM MNIST Classifier 🚀
 
 A **Support Vector Machine (SVM)** based handwritten digit classifier trained on the popular **MNIST dataset** 🖼️ ➡️ 🔢.
 
