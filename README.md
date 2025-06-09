@@ -99,8 +99,7 @@ To handle the large MNIST training set (\~60,000 images), we train SVMs on **bat
 
 | Metric        | Value                                 |
 | ------------- | ------------------------------------- |
-| Test Accuracy | \~XX% (depends on batch size & C)     |
-| Training Time | \~minutes per digit (batch-dependent) |
+| Test Accuracy | \~78.68% (depends on batch size & C)  |
 
 ---
 
